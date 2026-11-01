@@ -8,7 +8,6 @@
 ![Material UI](https://img.shields.io/badge/UI-Angular%20Material-orange?style=for-the-badge&logo=angular)
 [![GitHub repo size](https://img.shields.io/github/repo-size/rohith2201/SmartMart?logo=github&style=for-the-badge)](https://github.com/rohith2201/SmartMart)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/rohith2201/SmartMart?style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/rohith2201/SmartMart?style=for-the-badge)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fsmart--mart.vercel.app%2F&up_message=Online&down_message=Offline&style=for-the-badge&logo=googlechrome&logoColor=white)
 
@@ -121,19 +120,8 @@ npm start
 | Admin Feedback  | `/docs/ui/admin/feedback.png`      |
 | Manage Products | `/docs/ui/admin/manageProducts.png ` |
 
----
-
-## 📄 License
-
-Distributed under the **MIT License**.
 
 
-----
-
-## Contributors
-<a href = "https://github.com/rohith2201/SmartMart">
-  <img src = "https://contrib.rocks/image?repo=rohith2201/SmartMart"/>
-</a>
 
 
 
